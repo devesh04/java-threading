@@ -1,0 +1,18 @@
+Todo:
+0. syncronized keyword, monitor objects, type of monitor objects
+1. wait, notify, notifyAll
+   application: print A, B, C from different threads in same order
+2. volatile keyword - how it works, when to use
+3. atomic integer, atomic boolean, atomic reference
+4. how atomic objects works on cpu level
+5. how to create use atomic reference
+6. locks - ReentrantLock, infinite locking
+7. lock conditions - signal, await, go through Condition interface in java 8
+   application: blocking queue, go through java8 implementation for ArrayBlockingQueue
+8. mutex, semaphores, difference b/w both
+9. deadlock, livelock, how to produce them
+10. concurent hashmap - how it works
+11. threadlocal - how it works, java8 code for threadlocal, internal data structure to store it, when to use it
+
+
+Links:

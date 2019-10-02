@@ -1,0 +1,17 @@
+Todo:
+0. Process v/s Thread
+1. Thread Class vs Runnable Interface
+2. Thread lifecycle
+3. Difference between start() and run() method
+4. We create an object of our new class and call start() method to start the execution of a thread. Start() invokes the run() method on the Thread object
+5. Common methods
+   - getId
+   - wait
+   - notify
+   - notifyAll
+   - getName
+   - yield
+   - interrupt
+
+Links:
+0. https://www.geeksforgeeks.org/multithreading-in-java/

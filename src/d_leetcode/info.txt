@@ -1,0 +1,6 @@
+todo:
+0. Practice all questions of concurrency section
+1. find out all different ways to solve one problem like using wait/notify or using locks, or using any mutex etc
+
+Links:
+0. https://leetcode.com/problemset/concurrency/

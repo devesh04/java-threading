@@ -1,0 +1,9 @@
+Todo:
+0. pool design pattern
+1. thread pool executor
+2. executor service - types of executors, constructor options, how to use
+3. future object, future task
+4. runnable v/s callable
+5. thread factory - constructor options, rejection handler, when to use
+
+Links:

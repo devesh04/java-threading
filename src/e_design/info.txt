@@ -1,0 +1,9 @@
+todo:
+0. try out few design applications like
+   - implement LRU cache
+   - message queue
+   - your own threadpool executor
+   - non-blocking queue
+   - design elevator
+
+Links:
